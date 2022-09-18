@@ -1,4 +1,11 @@
 # channel-operator
+
+Q:如何审核？
+A:可以在这里提交Issue，也可以在子频道里发。
+
+Q:想提交建议/意见！
+A:可以直接写pull requests，也可以发issue，子频道里发可能看不见。
+
 ## Phigros
 - rks达到14.8
 - 在至少1张难度15谱面、3张难度14谱面中取得满分。
