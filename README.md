@@ -47,7 +47,7 @@ A:可以直接写pull requests，也可以发issue，子频道里发可能看不
 
 以下情况下您可以免试：
 
-1. 以困难模式通过Final Verdict曲包的全部byd难度并取得不低于AA的成绩。
+1. 以困难模式通过Final Verdict曲包的全部byd难度并在除Testify其他曲目中取得不低于AA的成绩。
 2. 个人潜力值达到12.25
 
 ## Malody
@@ -56,7 +56,7 @@ A:可以直接写pull requests，也可以发issue，子频道里发可能看不
 ## Lanota
 - 以Purify模式完成**Astaroth**的 _ULTRA_ 难度或 _MASTER_ 难度。
 - 在至少3张难度14及以上谱面中取得L评级。
-- 在至少10首歌曲的 _ULTRA_ 或 _MASTER_ 难度取得Perfect Purified评级。
+- 在至少10首歌曲的 _ULTRA_ 或 _MASTER_ 难度取得Perfect Purified评级，难度不限。
 
 满足以上前提后，连续**以Purify难度游玩第六章最后三首曲目**的 _ULTRA_ 难度并均取得95w以上成绩，或 _MASTER_ 难度并均取得90w以上成绩。
 
